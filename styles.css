@@ -23,6 +23,11 @@
     text-align: justify;
 }
 
+#fphoto {
+    height: 400px;
+    width: auto;
+}
+
 a:link {
     color: hsla(330, 50%, 50%, 0.5);
     font-family: "Courier New", BlinkMacSystemFont, -apple-system, "Segoe UI", sans-serif;
