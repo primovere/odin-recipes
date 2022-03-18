@@ -6,6 +6,10 @@
     font-weight: 1000;
 }
 
+.content h2 {
+    font-family: papyrus, monospace;
+}
+
 .title {
     background-color: rgba(10, 40, 30, 0.3);
     color: #f0f8ff;
