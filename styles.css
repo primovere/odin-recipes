@@ -1,3 +1,11 @@
+.recipe.title {
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    font-family: "Brush Script MT", Tahoma, "Trebuchet MS", serif;
+    font-size: 60px;
+    font-weight: 1000;
+}
+
 .title {
     background-color: rgba(10, 40, 30, 0.3);
     color: #f0f8ff;
