@@ -12,7 +12,8 @@
 
 h2,
 img,
-li {
+li,
+p {
     text-align: center;
 }
 .title {
@@ -32,8 +33,9 @@ li {
     text-align: justify;
 }
 
-#fphoto {
-    height: 400px;
+#fphoto,
+#ophoto {
+    height: 300px;
     width: auto;
 }
 
