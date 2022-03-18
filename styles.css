@@ -10,6 +10,11 @@
     font-family: papyrus, monospace;
 }
 
+h2,
+img,
+li {
+    text-align: center;
+}
 .title {
     background-color: rgba(10, 40, 30, 0.3);
     color: #f0f8ff;
