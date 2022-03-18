@@ -25,6 +25,10 @@ p {
     text-align: center;
 }
 
+.content {
+    background-color: rgb(243, 140, 60);
+}
+
 /* Only the bullet point's color gets changed because the content of each <li>
 +is hyperlink(<a>). The color of <a> need to be set additionally.*/
 .recipe {
