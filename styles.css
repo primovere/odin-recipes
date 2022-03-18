@@ -15,7 +15,7 @@
     text-align: center;
 }
 
-/* Only the bullet point's color gets changed because the content of each <li>
+/* Only the bullet dot's color get changed because the content of each <li>
 +is hyperlink(<a>). The color of <a> need to be set additionally.*/
 .recipe {
     color: hsla(330, 50%, 50%, 0.5);
